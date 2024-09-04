@@ -1,4 +1,4 @@
-# Hotel Sentiment Analysis using Machine Learning
+# Sentiment analysis on hotel reviews using machine learning techniques
 
 This project explores hotel reviews to automatically determine if a review expresses a positive or negative sentiment. Leveraging machine learning and natural language processing (NLP), we aim to extract valuable insights from textual data and gain a deeper understanding of customer experiences.
 
